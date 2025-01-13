@@ -5,4 +5,4 @@ static_sites:
     branch: main
     deploy_on_push: true
     repo: hdemusg/flymontag-site
-  name: sample-html
+  name: flymontag
